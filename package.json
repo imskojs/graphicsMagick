@@ -1,0 +1,18 @@
+{
+  "name": "img",
+  "version": "1.0.0",
+  "description": "GraphicsMagick image resizing",
+  "main": "app.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "fs-extra": "^0.18.4",
+    "gm": "^1.18.1",
+    "wrench": "^1.5.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seunghoon Ko",
+  "license": "MIT"
+}
